@@ -1,0 +1,17 @@
+SPI_if.sv
+SPI_slave.sv
+SVA.sv
+golden_model.sv
+sequence_item.sv
+SPI_config.sv
+sequencer.sv
+monitor.sv
+SPI_driver.sv
+Agent.sv
+scoreboard.sv
+coverage_collector.sv
+SPI_env.sv
+main_seq.sv
+reset_seq.sv
+SPI_test.sv
+top.sv
